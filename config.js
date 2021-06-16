@@ -1,6 +1,6 @@
-global.owner = ['62895361677059','6281567956300'] // Put your number here
+global.owner = ['6285856305729','6285856305729'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['62895361677059'] // Premium user has unlimited limit
+global.prems = ['6285856305729'] // Premium user has unlimited limit
 global.wait = "[❗]  ```Wait a minute...```"
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -9,7 +9,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'Kokoronationz'
+  'https://api.xteam.xyz': 'b43ec765d145d2b3'
 }
 
 // Sticker WM
